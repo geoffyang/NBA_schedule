@@ -1,5 +1,5 @@
 # NBA_schedule
-NBA playoff schedule - the hard way
+NBA playoff schedules - the hard way
 
 1) Scrape game data for April/May and save to desktop.
 
