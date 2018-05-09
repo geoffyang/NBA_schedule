@@ -5,4 +5,4 @@ NBA playoff schedules - the hard way
 
 2) Clean the data.
 
-3) Export games with no scores to csv. Presumedly these are unplayed, upcoming games.
+3) Search for games with no scores and export to csv. Presumedly these are unplayed, upcoming games.
